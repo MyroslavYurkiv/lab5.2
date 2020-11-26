@@ -1,0 +1,4 @@
+﻿  UnitTest3.cpp
+D:\Univer\Virtualka\lab5.2\UnitTest3\UnitTest3.cpp(16,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Univer\Virtualka\lab5.2\Debug\UnitTest3.lib and object D:\Univer\Virtualka\lab5.2\Debug\UnitTest3.exp
+  UnitTest3.vcxproj -> D:\Univer\Virtualka\lab5.2\Debug\UnitTest3.dll
