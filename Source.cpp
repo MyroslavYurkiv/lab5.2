@@ -50,6 +50,7 @@ void S(const double x, const double eps, int& n, double& s)
 		A(x, n, a);
 		s += a;
 	} while (abs(a) >= eps);
+
 }
 
 void A(const double x, const int n, double& a)
@@ -57,3 +58,4 @@ void A(const double x, const int n, double& a)
 	double R = (2 * n - 1) / ((2 * n + 1) * pow(x, 2)); // вираз залежить від умови завдання варіанту
 	a *= R;
 }
+
